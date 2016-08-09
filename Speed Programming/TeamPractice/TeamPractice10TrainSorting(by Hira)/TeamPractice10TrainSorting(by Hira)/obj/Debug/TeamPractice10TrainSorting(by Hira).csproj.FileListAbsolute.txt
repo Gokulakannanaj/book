@@ -1,0 +1,10 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\bin\Debug\TeamPractice10TrainSorting(by Hira).exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\bin\Debug\TeamPractice10TrainSorting(by Hira).exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\bin\Debug\TeamPractice10TrainSorting(by Hira).pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\obj\Debug\TeamPractice10TrainSorting(by Hira).csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\obj\Debug\TeamPractice10TrainSorting(by Hira).exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\obj\Debug\TeamPractice10TrainSorting(by Hira).pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\bin\Debug\TrainSorting.txt
+F:\Working File\Speed Programming\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\bin\Debug\TeamPractice10TrainSorting(by Hira).exe.config
+F:\Working File\Speed Programming\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\obj\Debug\TeamPractice10TrainSorting(by Hira).exe
+F:\Working File\Speed Programming\TeamPractice10TrainSorting(by Hira)\TeamPractice10TrainSorting(by Hira)\obj\Debug\TeamPractice10TrainSorting(by Hira).pdb

@@ -1,0 +1,7 @@
+c:\users\probattle\documents\visual studio 2012\Projects\FleaChess\FleaChess\bin\Debug\FleaChess.exe.config
+c:\Users\Probattle\Documents\Visual Studio 2012\Projects\FleaChess\FleaChess\bin\Debug\FleaChess.exe
+c:\Users\Probattle\Documents\Visual Studio 2012\Projects\FleaChess\FleaChess\bin\Debug\FleaChess.pdb
+c:\Users\Probattle\Documents\Visual Studio 2012\Projects\FleaChess\FleaChess\obj\Debug\FleaChess.csprojResolveAssemblyReference.cache
+c:\Users\Probattle\Documents\Visual Studio 2012\Projects\FleaChess\FleaChess\obj\Debug\FleaChess.exe
+c:\Users\Probattle\Documents\Visual Studio 2012\Projects\FleaChess\FleaChess\obj\Debug\FleaChess.pdb
+c:\Users\Probattle\Documents\Visual Studio 2012\Projects\FleaChess\FleaChess\bin\Debug\input.txt

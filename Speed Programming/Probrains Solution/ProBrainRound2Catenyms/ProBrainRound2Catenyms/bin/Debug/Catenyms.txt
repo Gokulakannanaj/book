@@ -1,0 +1,12 @@
+﻿2
+3
+oak
+maple
+elm
+6
+aloha
+arachnid
+dog
+gopher
+rat
+tiger

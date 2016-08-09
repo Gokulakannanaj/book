@@ -1,0 +1,7 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(By Kamran)\TeamPractice10TrainSorting(By Kamran)\bin\Debug\TeamPractice10TrainSorting(By Kamran).exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(By Kamran)\TeamPractice10TrainSorting(By Kamran)\bin\Debug\TeamPractice10TrainSorting(By Kamran).exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(By Kamran)\TeamPractice10TrainSorting(By Kamran)\bin\Debug\TeamPractice10TrainSorting(By Kamran).pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(By Kamran)\TeamPractice10TrainSorting(By Kamran)\obj\Debug\TeamPractice10TrainSorting(By Kamran).csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(By Kamran)\TeamPractice10TrainSorting(By Kamran)\obj\Debug\TeamPractice10TrainSorting(By Kamran).exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(By Kamran)\TeamPractice10TrainSorting(By Kamran)\obj\Debug\TeamPractice10TrainSorting(By Kamran).pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10TrainSorting(By Kamran)\TeamPractice10TrainSorting(By Kamran)\bin\Debug\TrainSorting.txt

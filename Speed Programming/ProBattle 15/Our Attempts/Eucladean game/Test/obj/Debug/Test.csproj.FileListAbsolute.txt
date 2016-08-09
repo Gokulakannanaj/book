@@ -1,0 +1,7 @@
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\Test\Test\bin\Debug\input.txt
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\Test\Test\obj\Debug\Test.pdb

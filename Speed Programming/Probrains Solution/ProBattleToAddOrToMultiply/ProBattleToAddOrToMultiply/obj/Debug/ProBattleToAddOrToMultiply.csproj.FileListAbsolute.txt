@@ -1,0 +1,7 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleToAddOrToMultiply\ProBattleToAddOrToMultiply\bin\Debug\ProBattleToAddOrToMultiply.exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleToAddOrToMultiply\ProBattleToAddOrToMultiply\bin\Debug\Input.txt
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleToAddOrToMultiply\ProBattleToAddOrToMultiply\bin\Debug\ProBattleToAddOrToMultiply.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleToAddOrToMultiply\ProBattleToAddOrToMultiply\bin\Debug\ProBattleToAddOrToMultiply.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleToAddOrToMultiply\ProBattleToAddOrToMultiply\obj\Debug\ProBattleToAddOrToMultiply.csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleToAddOrToMultiply\ProBattleToAddOrToMultiply\obj\Debug\ProBattleToAddOrToMultiply.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleToAddOrToMultiply\ProBattleToAddOrToMultiply\obj\Debug\ProBattleToAddOrToMultiply.pdb

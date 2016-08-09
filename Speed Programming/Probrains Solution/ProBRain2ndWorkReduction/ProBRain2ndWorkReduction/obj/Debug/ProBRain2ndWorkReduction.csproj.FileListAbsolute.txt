@@ -1,0 +1,7 @@
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBRain2ndWorkReduction\ProBRain2ndWorkReduction\bin\Debug\ProBRain2ndWorkReduction.exe.config
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBRain2ndWorkReduction\ProBRain2ndWorkReduction\bin\Debug\ProBRain2ndWorkReduction.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBRain2ndWorkReduction\ProBRain2ndWorkReduction\bin\Debug\ProBRain2ndWorkReduction.pdb
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBRain2ndWorkReduction\ProBRain2ndWorkReduction\obj\Debug\ProBRain2ndWorkReduction.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBRain2ndWorkReduction\ProBRain2ndWorkReduction\obj\Debug\ProBRain2ndWorkReduction.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBRain2ndWorkReduction\ProBRain2ndWorkReduction\obj\Debug\ProBRain2ndWorkReduction.pdb
+C:\Users\Muhammad\documents\visual studio 2012\Projects\ProBRain2ndWorkReduction\ProBRain2ndWorkReduction\bin\Debug\WorkReduction.txt

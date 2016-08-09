@@ -1,0 +1,7 @@
+c:\users\probattle\documents\visual studio 2012\Projects\compressed words\compressed words\bin\Debug\compressed words.exe.config
+c:\users\probattle\documents\visual studio 2012\Projects\compressed words\compressed words\bin\Debug\compressed words.exe
+c:\users\probattle\documents\visual studio 2012\Projects\compressed words\compressed words\bin\Debug\compressed words.pdb
+c:\users\probattle\documents\visual studio 2012\Projects\compressed words\compressed words\obj\Debug\compressed words.csprojResolveAssemblyReference.cache
+c:\users\probattle\documents\visual studio 2012\Projects\compressed words\compressed words\obj\Debug\compressed words.exe
+c:\users\probattle\documents\visual studio 2012\Projects\compressed words\compressed words\obj\Debug\compressed words.pdb
+c:\users\probattle\documents\visual studio 2012\Projects\compressed words\compressed words\bin\Debug\input.txt

@@ -1,0 +1,7 @@
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrainTest1ForNewLine\ProBrainTest1ForNewLine\bin\Debug\ProBrainTest1ForNewLine.exe.config
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrainTest1ForNewLine\ProBrainTest1ForNewLine\bin\Debug\ExactChange.txt
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrainTest1ForNewLine\ProBrainTest1ForNewLine\bin\Debug\ProBrainTest1ForNewLine.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrainTest1ForNewLine\ProBrainTest1ForNewLine\bin\Debug\ProBrainTest1ForNewLine.pdb
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrainTest1ForNewLine\ProBrainTest1ForNewLine\obj\Debug\ProBrainTest1ForNewLine.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrainTest1ForNewLine\ProBrainTest1ForNewLine\obj\Debug\ProBrainTest1ForNewLine.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrainTest1ForNewLine\ProBrainTest1ForNewLine\obj\Debug\ProBrainTest1ForNewLine.pdb

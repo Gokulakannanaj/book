@@ -1,0 +1,13 @@
+c:\users\probattle\documents\visual studio 2012\Projects\JimProblem\JimProblem\bin\Debug\JimProblem.exe.config
+c:\users\probattle\documents\visual studio 2012\Projects\JimProblem\JimProblem\bin\Debug\JimProblem.exe
+c:\users\probattle\documents\visual studio 2012\Projects\JimProblem\JimProblem\bin\Debug\JimProblem.pdb
+c:\users\probattle\documents\visual studio 2012\Projects\JimProblem\JimProblem\obj\Debug\JimProblem.exe
+c:\users\probattle\documents\visual studio 2012\Projects\JimProblem\JimProblem\obj\Debug\JimProblem.pdb
+c:\users\probattle\documents\visual studio 2012\Projects\JimProblem\JimProblem\bin\Debug\input.txt
+C:\Users\Muhammad Faizan\Desktop\Projects\JimProblem\JimProblem\bin\Debug\JimProblem.exe.config
+C:\Users\Muhammad Faizan\Desktop\Projects\JimProblem\JimProblem\obj\Debug\JimProblem.exe
+C:\Users\Muhammad Faizan\Desktop\Projects\JimProblem\JimProblem\obj\Debug\JimProblem.pdb
+C:\Users\Muhammad Faizan\Desktop\Projects\JimProblem\JimProblem\bin\Debug\input.txt
+C:\Users\Muhammad Faizan\Desktop\Projects\JimProblem\JimProblem\bin\Debug\JimProblem.exe
+C:\Users\Muhammad Faizan\Desktop\Projects\JimProblem\JimProblem\bin\Debug\JimProblem.pdb
+C:\Users\Muhammad Faizan\Desktop\Projects\JimProblem\JimProblem\obj\Debug\JimProblem.csprojResolveAssemblyReference.cache

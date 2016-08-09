@@ -1,0 +1,10 @@
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\bin\Debug\ProBrain2ndRoundCardHand.exe.config
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\bin\Debug\ProBrain2ndRoundCardHand.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\bin\Debug\ProBrain2ndRoundCardHand.pdb
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\obj\Debug\ProBrain2ndRoundCardHand.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\obj\Debug\ProBrain2ndRoundCardHand.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\obj\Debug\ProBrain2ndRoundCardHand.pdb
+c:\users\muhammad\documents\visual studio 2012\Projects\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\bin\Debug\CardHands.txt
+F:\important(2gb)\Dropbox\Speed Programming\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\bin\Debug\ProBrain2ndRoundCardHand.exe.config
+F:\important(2gb)\Dropbox\Speed Programming\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\obj\Debug\ProBrain2ndRoundCardHand.exe
+F:\important(2gb)\Dropbox\Speed Programming\ProBrain2ndRoundCardHand\ProBrain2ndRoundCardHand\obj\Debug\ProBrain2ndRoundCardHand.pdb

@@ -1,0 +1,14 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\TeamPracticeAgainPalindrome.exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\TeamPracticeAgainPalindrome.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\TeamPracticeAgainPalindrome.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\obj\Debug\TeamPracticeAgainPalindrome.csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\obj\Debug\TeamPracticeAgainPalindrome.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\obj\Debug\TeamPracticeAgainPalindrome.pdb
+C:\Users\Muhammad Faizan\documents\visual studio 2013\Projects\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\Input.txt
+E:\Dropbox\Speed Programming\TeamPractice\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\TeamPracticeAgainPalindrome.exe.config
+E:\Dropbox\Speed Programming\TeamPractice\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\obj\Debug\TeamPracticeAgainPalindrome.exe
+E:\Dropbox\Speed Programming\TeamPractice\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\obj\Debug\TeamPracticeAgainPalindrome.pdb
+E:\Dropbox\Speed Programming\TeamPractice\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\Input.txt
+E:\Dropbox\Speed Programming\TeamPractice\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\TeamPracticeAgainPalindrome.exe
+E:\Dropbox\Speed Programming\TeamPractice\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\bin\Debug\TeamPracticeAgainPalindrome.pdb
+E:\Dropbox\Speed Programming\TeamPractice\TeamPracticeAgainPalindrome\TeamPracticeAgainPalindrome\obj\Debug\TeamPracticeAgainPalindrome.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ZAINAB PARVEEN\Documents\vs\2DArray\2DArray\bin\Debug\2DArray.exe.config
+C:\Users\ZAINAB PARVEEN\Documents\vs\2DArray\2DArray\bin\Debug\2DArray.exe
+C:\Users\ZAINAB PARVEEN\Documents\vs\2DArray\2DArray\bin\Debug\2DArray.pdb
+C:\Users\ZAINAB PARVEEN\Documents\vs\2DArray\2DArray\obj\Debug\2DArray.csprojResolveAssemblyReference.cache
+C:\Users\ZAINAB PARVEEN\Documents\vs\2DArray\2DArray\obj\Debug\2DArray.exe
+C:\Users\ZAINAB PARVEEN\Documents\vs\2DArray\2DArray\obj\Debug\2DArray.pdb
+C:\Users\ZAINAB PARVEEN\Documents\vs\2DArray\2DArray\bin\Debug\task4.txt

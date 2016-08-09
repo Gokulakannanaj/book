@@ -1,0 +1,11 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\bin\Debug\CodeJamProblemA.exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\obj\Debug\CodeJamProblemA.csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\bin\Debug\Input.in
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\bin\Debug\CodeJamProblemA.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\bin\Debug\CodeJamProblemA.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\obj\Debug\CodeJamProblemA.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\obj\Debug\CodeJamProblemA.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\CodeJamProblemA\CodeJamProblemA\bin\Debug\A-small-attempt0.in
+E:\Dropbox\Speed Programming\CodeJam\CodeJamProblemA\CodeJamProblemA\bin\Debug\CodeJamProblemA.exe.config
+E:\Dropbox\Speed Programming\CodeJam\CodeJamProblemA\CodeJamProblemA\obj\Debug\CodeJamProblemA.exe
+E:\Dropbox\Speed Programming\CodeJam\CodeJamProblemA\CodeJamProblemA\obj\Debug\CodeJamProblemA.pdb

@@ -1,0 +1,7 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ITech13AlwaysOnTheRun\ITech13AlwaysOnTheRun\bin\Debug\ITech13AlwaysOnTheRun.exe.config
+C:\Users\Muhammad Faizan\documents\visual studio 2013\Projects\ITech13AlwaysOnTheRun\ITech13AlwaysOnTheRun\bin\Debug\OnTheFly.txt
+C:\Users\Muhammad Faizan\documents\visual studio 2013\Projects\ITech13AlwaysOnTheRun\ITech13AlwaysOnTheRun\bin\Debug\ITech13AlwaysOnTheRun.exe
+C:\Users\Muhammad Faizan\documents\visual studio 2013\Projects\ITech13AlwaysOnTheRun\ITech13AlwaysOnTheRun\bin\Debug\ITech13AlwaysOnTheRun.pdb
+C:\Users\Muhammad Faizan\documents\visual studio 2013\Projects\ITech13AlwaysOnTheRun\ITech13AlwaysOnTheRun\obj\Debug\ITech13AlwaysOnTheRun.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Faizan\documents\visual studio 2013\Projects\ITech13AlwaysOnTheRun\ITech13AlwaysOnTheRun\obj\Debug\ITech13AlwaysOnTheRun.exe
+C:\Users\Muhammad Faizan\documents\visual studio 2013\Projects\ITech13AlwaysOnTheRun\ITech13AlwaysOnTheRun\obj\Debug\ITech13AlwaysOnTheRun.pdb

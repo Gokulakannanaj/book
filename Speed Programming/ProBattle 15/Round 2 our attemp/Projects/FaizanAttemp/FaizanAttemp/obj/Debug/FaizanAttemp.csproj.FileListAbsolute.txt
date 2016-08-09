@@ -1,0 +1,6 @@
+c:\users\probattle\documents\visual studio 2012\Projects\FaizanAttemp\FaizanAttemp\bin\Debug\FaizanAttemp.exe.config
+c:\users\probattle\documents\visual studio 2012\Projects\FaizanAttemp\FaizanAttemp\bin\Debug\FaizanAttemp.exe
+c:\users\probattle\documents\visual studio 2012\Projects\FaizanAttemp\FaizanAttemp\bin\Debug\FaizanAttemp.pdb
+c:\users\probattle\documents\visual studio 2012\Projects\FaizanAttemp\FaizanAttemp\obj\Debug\FaizanAttemp.exe
+c:\users\probattle\documents\visual studio 2012\Projects\FaizanAttemp\FaizanAttemp\obj\Debug\FaizanAttemp.pdb
+c:\users\probattle\documents\visual studio 2012\Projects\FaizanAttemp\FaizanAttemp\bin\Debug\input.txt

@@ -1,0 +1,6 @@
+c:\users\probattle.mc-rtl-ws-28\documents\visual studio 2012\Projects\BridgesAndTunnel\BridgesAndTunnel\bin\Debug\BridgesAndTunnel.exe.config
+C:\Users\Probattle.MC-RTL-WS-28\Documents\Visual Studio 2012\Projects\BridgesAndTunnel\BridgesAndTunnel\bin\Debug\BridgesAndTunnel.exe
+C:\Users\Probattle.MC-RTL-WS-28\Documents\Visual Studio 2012\Projects\BridgesAndTunnel\BridgesAndTunnel\bin\Debug\BridgesAndTunnel.pdb
+C:\Users\Probattle.MC-RTL-WS-28\Documents\Visual Studio 2012\Projects\BridgesAndTunnel\BridgesAndTunnel\obj\Debug\BridgesAndTunnel.csprojResolveAssemblyReference.cache
+C:\Users\Probattle.MC-RTL-WS-28\Documents\Visual Studio 2012\Projects\BridgesAndTunnel\BridgesAndTunnel\obj\Debug\BridgesAndTunnel.exe
+C:\Users\Probattle.MC-RTL-WS-28\Documents\Visual Studio 2012\Projects\BridgesAndTunnel\BridgesAndTunnel\obj\Debug\BridgesAndTunnel.pdb

@@ -1,0 +1,7 @@
+c:\users\madiha\documents\visual studio 2012\Projects\ProBrain3rdPerfectPthPower\ProBrain3rdPerfectPthPower\bin\Debug\ProBrain3rdPerfectPthPower.exe.config
+c:\users\madiha\documents\visual studio 2012\Projects\ProBrain3rdPerfectPthPower\ProBrain3rdPerfectPthPower\obj\Debug\ProBrain3rdPerfectPthPower.csprojResolveAssemblyReference.cache
+c:\users\madiha\documents\visual studio 2012\Projects\ProBrain3rdPerfectPthPower\ProBrain3rdPerfectPthPower\bin\Debug\PerfectPthPowers.txt
+c:\users\madiha\documents\visual studio 2012\Projects\ProBrain3rdPerfectPthPower\ProBrain3rdPerfectPthPower\bin\Debug\ProBrain3rdPerfectPthPower.exe
+c:\users\madiha\documents\visual studio 2012\Projects\ProBrain3rdPerfectPthPower\ProBrain3rdPerfectPthPower\bin\Debug\ProBrain3rdPerfectPthPower.pdb
+c:\users\madiha\documents\visual studio 2012\Projects\ProBrain3rdPerfectPthPower\ProBrain3rdPerfectPthPower\obj\Debug\ProBrain3rdPerfectPthPower.exe
+c:\users\madiha\documents\visual studio 2012\Projects\ProBrain3rdPerfectPthPower\ProBrain3rdPerfectPthPower\obj\Debug\ProBrain3rdPerfectPthPower.pdb

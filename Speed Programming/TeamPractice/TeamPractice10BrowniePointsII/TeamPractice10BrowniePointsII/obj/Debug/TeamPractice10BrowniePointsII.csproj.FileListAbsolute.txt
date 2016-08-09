@@ -1,0 +1,14 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\TeamPractice10BrowniePointsII.exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\brownie.txt
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\TeamPractice10BrowniePointsII.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\TeamPractice10BrowniePointsII.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\obj\Debug\TeamPractice10BrowniePointsII.csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\obj\Debug\TeamPractice10BrowniePointsII.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\obj\Debug\TeamPractice10BrowniePointsII.pdb
+E:\Dropbox\Speed Programming\TeamPractice\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\TeamPractice10BrowniePointsII.exe.config
+E:\Dropbox\Speed Programming\TeamPractice\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\obj\Debug\TeamPractice10BrowniePointsII.exe
+E:\Dropbox\Speed Programming\TeamPractice\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\obj\Debug\TeamPractice10BrowniePointsII.pdb
+E:\Dropbox\Speed Programming\TeamPractice\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\brownie.txt
+E:\Dropbox\Speed Programming\TeamPractice\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\TeamPractice10BrowniePointsII.exe
+E:\Dropbox\Speed Programming\TeamPractice\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\bin\Debug\TeamPractice10BrowniePointsII.pdb
+E:\Dropbox\Speed Programming\TeamPractice\TeamPractice10BrowniePointsII\TeamPractice10BrowniePointsII\obj\Debug\TeamPractice10BrowniePointsII.csprojResolveAssemblyReference.cache

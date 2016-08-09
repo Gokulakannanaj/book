@@ -1,0 +1,6 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeTriTiling\TeamPracticeTriTiling\bin\Debug\TeamPracticeTriTiling.exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeTriTiling\TeamPracticeTriTiling\bin\Debug\TeamPracticeTriTiling.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeTriTiling\TeamPracticeTriTiling\bin\Debug\TeamPracticeTriTiling.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeTriTiling\TeamPracticeTriTiling\obj\Debug\TeamPracticeTriTiling.csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeTriTiling\TeamPracticeTriTiling\obj\Debug\TeamPracticeTriTiling.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\TeamPracticeTriTiling\TeamPracticeTriTiling\obj\Debug\TeamPracticeTriTiling.pdb

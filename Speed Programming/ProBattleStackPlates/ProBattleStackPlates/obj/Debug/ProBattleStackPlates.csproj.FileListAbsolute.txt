@@ -1,0 +1,10 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleStackPlates\ProBattleStackPlates\bin\Debug\ProBattleStackPlates.exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleStackPlates\ProBattleStackPlates\bin\Debug\Input.txt
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleStackPlates\ProBattleStackPlates\bin\Debug\ProBattleStackPlates.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleStackPlates\ProBattleStackPlates\bin\Debug\ProBattleStackPlates.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleStackPlates\ProBattleStackPlates\obj\Debug\ProBattleStackPlates.csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleStackPlates\ProBattleStackPlates\obj\Debug\ProBattleStackPlates.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ProBattleStackPlates\ProBattleStackPlates\obj\Debug\ProBattleStackPlates.pdb
+E:\Dropbox\Speed Programming\ProBattleStackPlates\ProBattleStackPlates\bin\Debug\ProBattleStackPlates.exe.config
+E:\Dropbox\Speed Programming\ProBattleStackPlates\ProBattleStackPlates\obj\Debug\ProBattleStackPlates.exe
+E:\Dropbox\Speed Programming\ProBattleStackPlates\ProBattleStackPlates\obj\Debug\ProBattleStackPlates.pdb

@@ -1,0 +1,7 @@
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ItechBoxOfBricks\ItechBoxOfBricks\bin\Debug\ItechBoxOfBricks.exe.config
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ItechBoxOfBricks\ItechBoxOfBricks\bin\Debug\ItechBoxOfBricks.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ItechBoxOfBricks\ItechBoxOfBricks\bin\Debug\ItechBoxOfBricks.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ItechBoxOfBricks\ItechBoxOfBricks\obj\Debug\ItechBoxOfBricks.csprojResolveAssemblyReference.cache
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ItechBoxOfBricks\ItechBoxOfBricks\obj\Debug\ItechBoxOfBricks.exe
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ItechBoxOfBricks\ItechBoxOfBricks\obj\Debug\ItechBoxOfBricks.pdb
+c:\users\muhammad faizan\documents\visual studio 2013\Projects\ItechBoxOfBricks\ItechBoxOfBricks\bin\Debug\BoxofBricks.txt
